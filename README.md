@@ -1,2 +1,2 @@
 # demo_runbook
-some powershelgl scripts for demo purposes
+some powershell scripts for demo purposes
